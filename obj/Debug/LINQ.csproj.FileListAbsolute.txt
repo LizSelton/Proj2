@@ -1,0 +1,6 @@
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\LocalData\Fall2019\CWEB21010\LINQ\LINQ\obj\Debug\LINQ.pdb
